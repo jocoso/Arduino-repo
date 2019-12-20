@@ -25,4 +25,4 @@ touch $READMENAME
 
 
 
-echo "## $p_name \n\n ### Written by $p_author" >> $READMENAME
+printf "## ${p_name}\n### Written by $p_author" >> $READMENAME

@@ -1,1 +1,2 @@
-## LED_LIGHT \n\n ### Written by Joshua
+## LED_LIGHT
+### Written by Joshua Collado
