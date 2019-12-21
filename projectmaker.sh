@@ -18,6 +18,7 @@ file_default() {
     cd $p_name
 
     READMENAME="${p_name}_README.md"
+    # Lowercase
     FILENAME="${p_name,,}"
 
     touch "$FILENAME.ino"
